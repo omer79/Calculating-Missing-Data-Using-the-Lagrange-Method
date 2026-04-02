@@ -1,0 +1,42 @@
+# Calculating Missing Data Using the Lagrange Method (VB6)
+
+## Description
+This small VB6 desktop tool calculates missing data points using the **Lagrange interpolation method**.  
+It is a lightweight program (44 KB) designed for quick mathematical calculations. The interface and program are in **Arabic**, making it accessible for Arabic-speaking users.
+
+---
+
+## Features
+- Input 5 values for **X**  
+- Input 5 corresponding values for **F(X)**  
+- Specify the **target X value** to calculate  
+- Computes **interpolated values**: P1(X1), P2(X1), P3(X1), P4(X1)  
+- Simple, fast, and lightweight (44 KB)
+
+---
+
+## Tech Stack
+- VB6 (Visual Basic 6)  
+- Desktop GUI for user-friendly interaction  
+
+---
+
+## How to Use
+1. Open the program.  
+2. Enter the 5 values for X.  
+3. Enter the 5 corresponding values for F(X).  
+4. Enter the target X value for which you want to interpolate.  
+5. The program will display the results for P1(X1), P2(X1), P3(X1), P4(X1).  
+
+---
+
+## Benefits
+- Quickly calculates missing data points using Lagrange interpolation  
+- Lightweight and easy to run  
+- Arabic interface for accessibility to native users  
+
+---
+
+## Notes
+- Works on Windows operating systems compatible with VB6 applications.
+- System region must be set to an Arabic locale for proper display of text
